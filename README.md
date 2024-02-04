@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkvadog
 - 👀 I’m interested in meow
 - 🌱 I’m currently learning data science & python
-- 💞️ I’m looking to collaborate on ML & NLP
+- 💞️ I’m looking to collaborate on ML & NLP (in the next months)
 - 📫 How to reach me: philippe.montel75@gmail.com
 - ⚡ Fun fact: end.
 
